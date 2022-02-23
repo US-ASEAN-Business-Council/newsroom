@@ -1,5 +1,5 @@
 ---
-title: Landing Page 10
+title: Landing Page 1
 permalink: "{{ page.fileSlug }}/index.html"
 layout: landing-page-1.html
 slug: landing-page-1
