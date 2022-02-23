@@ -1,25 +1,24 @@
 ---
-title: 10 Great Examples of Responsive Websites
+title: 20 Great Examples of Responsive Websites
+created-on: 2021-08-22T20:18:52.249Z
+updated-on: 2021-08-22T20:18:52.249Z
+published-on: 2021-11-11T14:51:15.317Z
+f_category-2: cms/categories/sports.md
+f_author-2: cms/authors/pam-beasley.md
 f_post-summary: |-
   Qui aut autem autem cupiditate quae explicabo aspernatur enim.
   Quae dolores sit.
   U
-f_main-image:
-  url: >-
-    https://uploads-ssl.webflow.com/618cc811a430c995f0f5f53b/618cc811a430c94c21f5f5bb_1629663529917-image4.jpg
-  alt: null
-slug: 10-great-examples-of-responsive-websites
 f_thumbnail-image:
-  url: >-
-    https://uploads-ssl.webflow.com/618cc811a430c995f0f5f53b/618cc811a430c94d1df5f5c0_1629663529915-image15.jpg
+  url: https://uploads-ssl.webflow.com/618cc811a430c995f0f5f53b/618cc811a430c94d1df5f5c0_1629663529915-image15.jpg
   alt: null
-f_author-2: cms/authors/pam-beasley.md
-f_category-2: cms/categories/sports.md
-updated-on: '2021-08-22T20:18:52.249Z'
-created-on: '2021-08-22T20:18:52.249Z'
-published-on: '2021-11-11T14:51:15.317Z'
-layout: '[blog].html'
+f_main-image:
+  url: https://uploads-ssl.webflow.com/618cc811a430c995f0f5f53b/618cc811a430c94c21f5f5bb_1629663529917-image4.jpg
+  alt: null
+layout: "[blog].html"
+slug: 10-great-examples-of-responsive-websites
 tags: blog
+date: 2022-02-23T09:28:06.543Z
 ---
 
 Dolores molestias aliquam deserunt ut est voluptas ut.
