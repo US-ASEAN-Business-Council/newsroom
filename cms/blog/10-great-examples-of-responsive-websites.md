@@ -1,5 +1,5 @@
 ---
-title: 20 Great Examples of Responsive Websites
+title: 10 Great Examples of Responsive Websites
 created-on: 2021-08-22T20:18:52.249Z
 updated-on: 2021-08-22T20:18:52.249Z
 published-on: 2021-11-11T14:51:15.317Z
